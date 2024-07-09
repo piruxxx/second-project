@@ -1,0 +1,16 @@
+* {
+  color: red;
+  font-family: "Arial-Black", Courier, monospace;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.test {
+  font-size: 10px;
+
+  &__item {
+    font-size: 12px;
+  }
+}
